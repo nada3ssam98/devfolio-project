@@ -44,6 +44,7 @@ header {
  } 
  header p{
      position: relative;
+     text-align: center;
  } 
 
  header p::after{
